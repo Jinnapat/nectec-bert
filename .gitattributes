@@ -1,2 +1,4 @@
-*.bpe.txt filter=lfs diff=lfs merge=lfs -text
+train.bpe.txt filter=lfs diff=lfs merge=lfs -text
+test.bpe.txt filter=lfs diff=lfs merge=lfs -text
+valid.bpe.txt filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
